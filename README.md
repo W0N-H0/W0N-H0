@@ -14,10 +14,10 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://portfolio-next13-mu.vercel.app/">
+    <a href="https://portfolio-next13-mu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-caf9f6?style=for-the-badge"> 
     </a>
-    <a href="https://215-coding.tistory.com/">
+    <a href="https://215-coding.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-fffabc?style=for-the-badge&logo=Tistory&logoColor=black"> 
     </a>
 
@@ -31,7 +31,7 @@
     <a href="mailto:dnjsgh2122@google.com">
         <img src="https://img.shields.io/badge/Gmail-2b9bc8?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sdzsYQOf">
+    <a href="https://open.kakao.com/o/sdzsYQOf" target="_blank">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 
